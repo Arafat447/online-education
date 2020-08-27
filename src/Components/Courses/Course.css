@@ -1,0 +1,14 @@
+
+.course {
+    width: 75%;
+    margin: 0px 10px;
+    border-right:1px solid lightgrey;
+    margin-bottom: 15px;
+}
+.cart {
+    width:23%;
+}
+.course h1 {
+    font-style:italic;
+    color:goldenrod
+}

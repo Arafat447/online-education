@@ -1,0 +1,23 @@
+.detail-container {
+    margin-right: 10px;
+    padding:5px;
+    width:300px;
+    float: left;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.courses {
+    display: inline-flex;
+}
+.courses img {
+    width:100%;
+}
+.fancy-button{
+    width:150px;
+    height: 30px;
+    background-color:goldenrod;
+    border-radius: 5px;
+    color:#fff;
+    border:1px solid gold;
+}

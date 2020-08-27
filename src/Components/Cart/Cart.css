@@ -1,0 +1,8 @@
+.fancy-button{
+    width:150px;
+    height: 30px;
+    background-color:goldenrod;
+    border-radius: 5px;
+    color:#fff;
+    border:1px solid gold;
+}
